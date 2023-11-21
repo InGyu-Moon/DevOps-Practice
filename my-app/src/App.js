@@ -16,8 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-            <p>태그 추가</p>
+           
         </a>
+             <p>태그 추가</p>
       </header>
     </div>
   );
