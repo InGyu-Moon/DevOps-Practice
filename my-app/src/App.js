@@ -18,8 +18,8 @@ function App() {
           Learn React
            
         </a>
-             <p>태그 추가</p>
       </header>
+            <p>태그 추가</p>
     </div>
   );
 }
