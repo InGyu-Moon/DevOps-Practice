@@ -15,11 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React12345
+          Learn React 수정
            
         </a>
       </header>
-            <p>태그 추가</p>
     </div>
   );
 }
